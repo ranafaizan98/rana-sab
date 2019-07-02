@@ -1,0 +1,19 @@
+{
+  "name": "rana-sab",
+  "version": "1.0.0",
+  "description": "https://independentinvestors.co.uk/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranafaizan98/rana-sab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranafaizan98/rana-sab/issues"
+  },
+  "homepage": "https://github.com/ranafaizan98/rana-sab#readme"
+}
